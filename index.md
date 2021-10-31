@@ -9,7 +9,7 @@
 
 ## 文章列表
 
-嗯......目前共4篇文章，继续加油/~/~/~  
+嗯......目前共4篇文章，继续加油~~~  
 文章列表：  
 - [Code](https://guleixibian.github.io/Code/)   
     1. [Markdown](https://guleixibian.github.io/Code/Markdown/)  
