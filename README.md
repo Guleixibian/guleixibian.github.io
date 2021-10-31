@@ -1,4 +1,4 @@
-# Guleixibian.github.io
+# Guleixibian.github.io -- 我的个人网站！
 这个仓库里是我网站的源代码。注意，这个仓库为[旧版网站](https://guleixibian.github.io/)，[新版网站](https://guleixibian2009.github.io/)已经更新，你可以前往 <https://github.com/guleixibian2009/guleixibian2009.github.io/> 来学习一下~
 
 ## 文件说明
@@ -10,7 +10,7 @@
 
 ## 图片外链
 
-由于直接使用`camo.githubusercontent.com`来作为服务器过于慢，`github.com`仓库会太大，我使用了[**路过图床**](https://imgtu.com/)。
+由于直接使用`camo.githubusercontent.com`来作为服务器过于慢，另建仓库仓库会太大不好上传，我使用了[**路过图床**](https://imgtu.com/)。
 
 
 
