@@ -1,7 +1,7 @@
 # 真的非常简单：Markdown基本语法
-在很多博客、论坛，包括`GithubPages`(参见[这篇文章](https://guleixibian2009.github.io/2021/08/15/GithubPages-简单易上手的网站制作-Jekyll版/)) 里都有大量运用到一种叫做`Markdown`的文本语言。不管你是在创建自己的网站、写文章，一般平台都需要写Markdown。如果你想学习Markdown，你算是来对地方了！
+*PS:新版网站已经升级，你可以访问[我的新版网站](https://guleixibian2009.github.io/)，获取最新更新&资讯！*
 
-<!-- more -->
+在很多博客、论坛，包括`GithubPages`(参见[这篇文章](https://guleixibian2009.github.io/2021/08/15/GithubPages-简单易上手的网站制作-Jekyll版/)) 里都有大量运用到一种叫做`Markdown`的文本语言。不管你是在创建自己的网站、写文章，一般平台都需要写Markdown。如果你想学习Markdown，你算是来对地方了！
 
 ## 0. Markdown 是什么？
 
