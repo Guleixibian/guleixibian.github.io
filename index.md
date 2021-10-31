@@ -13,17 +13,17 @@
 文章列表：  
 - [Code](https://guleixibian.github.io/Code/)   
     1. [Markdown](https://guleixibian.github.io/Code/Markdown/)  
-        1.1 [Markdown基本语法](https://guleixibian.github.io/Code/Markdown/01/)  
+        1.1 [真的非常简单：Markdown基本语法](https://guleixibian.github.io/Code/Markdown/01/)  
     2. [GitHub](https://guleixibian.github.io/Code/Github/)  
         2.1 [从头开始建设GithubPages](https://guleixibian.github.io/Code/Github/01/)  
-        2.2 [3招提速你的GitHub](https://guleixibian.github.io/Code/Github/02/)
+        2.2 [3招提速你的GitHub，妈妈再也不用担心github上不去了！](https://guleixibian.github.io/Code/Github/02/)
     3. [Python](https://guleixibian.github.io/Code/Python/)  
-        3.1 [Python小程序](https://guleixibian.github.io/Code/Python/01/)  
-- [APP(暂未更新)](https://guleixibian.github.io/APP/)  
+        3.1 [新鲜出炉的Python小程序](https://guleixibian.github.io/Code/Python/01/)  
+- [APP(*暂未更新*)](https://guleixibian.github.io/APP/)  
     1. [IDE](https://guleixibian.github.io/APP/IDE/)  
-        1.1 [Jetbrains](https://guleixibian.github.io/APP/IDE/01/)  
+        1.1 [Jetbrains全家桶+破解方法](https://guleixibian.github.io/APP/IDE/01/)  
         1.2 [Sublime](https://guleixibian.github.io/APP/IDE/02/)  
         1.3 [其他](https://guleixibian.github.io/APP/IDE/03/)  
     2. [Life](https://guleixibian.github.io/APP/Life/)
 
-## 最后，祝大家万圣节~~闹鬼~~快乐！
+## 最后，祝大家万圣节~~一定要闹鬼~~快乐！
