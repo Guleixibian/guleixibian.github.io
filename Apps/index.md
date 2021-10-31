@@ -1,6 +1,7 @@
 # 软件推荐
 ![license](https://img.shields.io/github/license/guleixibian/guleixibian.github.io)
-![Last Update](https://img.shields.io/badge/LatestUpdate-05.11-brightgreen)  
+![GitHub last commit](https://img.shields.io/github/last-commit/guleixibian/guleixibian.github.io)  
+
 还没时间写....先复制一点过来
 
 ## 1. 编程
