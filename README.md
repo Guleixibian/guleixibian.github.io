@@ -6,7 +6,7 @@
 
 ## 生成方法
 
-此网站不借助外力（指第三方，如HEXO，WordPress等等），纯粹使用Github自带Jeykll生成器。本人选择了Cayman样式。新版网站使用HEXO+NeXT来生成网页文件，不过比Jeykll好看。（哈哈哈这是真的
+此网站不借助外力（指第三方，如`HEXO`，`WordPress`等等），纯粹使用Github自带`Jeykll生成器`。我选择了`Cayman`样式。新版网站使用`HEXO+NeXT`来生成网页文件，不过比`Jeykll`好看。~~（哈哈哈这是真的~~
 
 ## 图片外链
 
