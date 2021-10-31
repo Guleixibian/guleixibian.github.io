@@ -1,4 +1,4 @@
-# guleixibian.github.io -- 我的个人网站~
+# Guleixibian.github.io -- 我的个人网站~
 欢迎来到 [故垒西边](https://github.com/guleixibian/) 的个人网站！  
 
 *PS:新版网站已经升级，你可以访问[我的新版网站](https://guleixibian2009.github.io/)，获取最新更新&资讯！*
