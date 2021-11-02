@@ -9,7 +9,7 @@
 
 ## 文章列表
 
-嗯......目前共4篇文章，继续加油~~~  
+嗯......目前共5篇文章，继续加油~~~  
 文章列表：  
 - [Code](https://guleixibian.github.io/Code/)   
     1. [Markdown](https://guleixibian.github.io/Code/Markdown/)  
@@ -19,8 +19,8 @@
         2.2 [3招提速你的GitHub，妈妈再也不用担心你的GitHub上不去了！](https://guleixibian.github.io/Code/Github/02/)
     3. [Python](https://guleixibian.github.io/Code/Python/)  
         3.1 [新鲜出炉的Python小程序](https://guleixibian.github.io/Code/Python/01/)  
-    4. [Hexo](https://guleixibian.github.io/Code/Hexo/)
-        4.1 [Hexo+Next 搭建更高阶的个人博客网站~](https://guleixibian.github.io/Code/Hexo/01/)
+    4. [Hexo(*暂未更新*)](https://guleixibian.github.io/Code/Hexo/)  
+        4.1 [Hexo+Next 搭建更高阶的个人博客网站~(*暂未更新*)](https://guleixibian.github.io/Code/Hexo/01/) 
 - [APP(*暂未更新*)](https://guleixibian.github.io/APP/)  
     1. [IDE](https://guleixibian.github.io/APP/IDE/)  
         1.1 [Jetbrains全家桶+破解方法](https://guleixibian.github.io/APP/IDE/01/)  
