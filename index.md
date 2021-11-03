@@ -22,7 +22,7 @@
     4. [Hexo(*暂未更新*)](https://guleixibian.github.io/Code/Hexo/)  
         4.1 [Hexo+Next 搭建更高阶的个人博客网站~(*暂未更新*)](https://guleixibian.github.io/Code/Hexo/01/)  [新版链接]()  
     5. [HTML(*暂未更新*)](https://guleixibian.github.io/Code/HTML/)
-        5.1 [HTTP请求响应代码：你可能要交钱了！(*暂未更新*)](https://guleixibian.github.io/Code/HTML/01/)  [新版链接]()  
+        5.1 [HTTP请求响应代码：你可能要交钱了！(402 Payment Required)(*暂未更新*)](https://guleixibian.github.io/Code/HTML/01/)  [新版链接]()  
 - [APP(*暂未更新*)](https://guleixibian.github.io/APP/)  
     1. [IDE](https://guleixibian.github.io/APP/IDE/)  
         1.1 [Jetbrains全家桶+破解方法](https://guleixibian.github.io/APP/IDE/01/)  [新版链接]()  
