@@ -2,7 +2,7 @@
 这个仓库里是我网站的源代码。注意，这个仓库为[旧版网站](https://guleixibian.github.io/)，[新版网站](https://guleixibian2009.github.io/)已经更新，你可以前往 <https://github.com/guleixibian2009/guleixibian2009.github.io/> 来学习一下~
 
 ## 文件说明
-仓库中，`.gitignore`、`LICENSE`两个文件为仓库配置，`_config.yml`为网站配置文件，`index.md`为主页文件，`404.md`为404错误界面，`favicon.ico`为网站头像，`Apps` `Code` `DOCS`三个文件夹为文章内容。~~（废话连篇）~~
+仓库中，`LICENSE`采用`GPL 3.0`，`_config.yml`为网站配置文件，`favicon.ico`为网站头像，`Apps` `Code` `DOCS`三个文件夹为文章内容，且基本上所有Markdown都是文章内容。~~（废话连篇）~~
 
 ## 生成方法
 
