@@ -29,3 +29,6 @@
         1.2 [Sublime](https://guleixibian.github.io/APP/IDE/02/)  [新版链接]()  
         1.3 [其他](https://guleixibian.github.io/APP/IDE/03/)  [新版链接]()  
     2. [Life](https://guleixibian.github.io/APP/Life/)
+
+
+## 论Github将一些js从 githubuercontent 放到主站上去后，CORS政策把它们拦截了。现在正在等待修复。（共同期待
