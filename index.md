@@ -31,4 +31,4 @@
     2. [Life](https://guleixibian.github.io/APP/Life/)
 
 
-#### 论Github将一些js从 githubuercontent 放到主站上去后，CORS政策把它们拦截了。现在正在等待修复（500 Internal Server Error）。（共同期待
+#### 论Github将一些js从 githubuercontent 放到主站上去后，CORS政策把它们拦截了（500 Internal Server Error）。现在已经修复。
