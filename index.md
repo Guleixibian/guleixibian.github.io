@@ -30,5 +30,5 @@
         1.3 [其他](https://guleixibian.github.io/APP/IDE/03/)  [新版链接]()  
     2. [Life](https://guleixibian.github.io/APP/Life/)
 
-
-#### 论Github将一些js从 githubuercontent 放到主站上去后，CORS政策把它们拦截了（500 Internal Server Error）。现在已经修复。
+## 最新资讯
+##### 1.论Github将一些js从 githubuercontent 放到主站上去后，CORS政策把它们拦截了（500 Internal Server Error）。现在已经修复。 --2021.11.5
