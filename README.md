@@ -10,7 +10,7 @@
 
 ## 图片外链
 
-由于直接使用`camo.githubusercontent.com`来作为服务器过于慢，另建仓库仓库会太大不好上传，所以我使用了[**路过图床**](https://imgtu.com/)。
+由于直接使用`camo.githubusercontent.com`来作为服务器太慢了，另建仓库仓库会太大不好上传，所以我使用了[**路过图床**](https://imgtu.com/)。
 
 
 
