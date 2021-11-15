@@ -32,5 +32,5 @@
 
 ## 最新资讯
 1. 论Github将一些js从 githubuercontent 放到主站上去后，CORS政策把它们拦截了（500 Internal Server Error）。现在已经修复。 --2021.11.5
-2. 哈哈哈，现在你已经可以在必应上搜到我啦！只要搜索'Guleixibian2009'，你就可以看到啦！ --2021.11.14
+2. 哈哈哈，现在你已经可以在必应上搜到我啦！只要搜索 'Guleixibian2009' ，你就可以看到啦！ --2021.11.14
 3. 啊这，为什么我 [上榜](https://awesomeopensource.com/projects/github/markdown/python?mode=) 了？我真的只有2个Star啊...... --2021.11.14
