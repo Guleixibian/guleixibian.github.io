@@ -33,4 +33,4 @@
 ## 最新资讯
 1. 哈哈哈，现在你已经可以在***必应***（注意一定是必应）上搜到我啦！只要搜索 `+Guleixibian2009` ，你就可以看到我的网站啦！ --2021.11.14
 2. 啊这，为什么我 [上榜](https://awesomeopensource.com/projects/github/markdown/python?mode=) 了？我真的只有2个Star啊...... --2021.11.14
-3. 论Github将一些`javascript`从 `githubusercontent.com` 放到`github.githubassets.com`上去后，CORS政策把它们拦截了（不允许跨源请求，虽然响应码是`200 OK`）。现在所有`CSS`都失效了。 --2021.11.27
+3. 论Github将一些`javascript`从 `githubusercontent.com` 放到`github.githubassets.com`上去后，CORS政策把它们拦截了（不允许跨源请求，虽然响应码是`200 OK`），所有`CSS`都失效了。现在已经恢复。 --2021.11.27
