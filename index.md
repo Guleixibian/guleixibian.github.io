@@ -13,7 +13,8 @@
 文章列表：  
 - [Code](https://guleixibian.github.io/Code/)   
     1. [Markdown](https://guleixibian.github.io/Code/Markdown/)  
-        1.1 [真的非常简单：Markdown基本语法](https://guleixibian.github.io/Code/Markdown/01/)  [新版链接](https://guleixibian2009.github.io/2021/08/25/真的非常简单-Markdown基本语法/)  
+        1.1 [真的非常简单：Markdown基本语法](https://guleixibian.github.io/Code/Markdown/01/)  [新版链接](https://guleixibian2009.github.io/2021/08/25/真的非常简单-Markdown基本语法/) 
+        1.2 [Markdown中LaTex常用语法表](https://guleixibian.github.io/Code/Markdown/02/)  [新版链接](https://guleixibian2009.github.io/2021/08/25/真的非常简单-Markdown基本语法/)   
     2. [GitHub](https://guleixibian.github.io/Code/Github/)  
         2.1 [从头开始建设你的个人博客网站--Jekyll版](https://guleixibian.github.io/Code/Github/01/)  [新版链接](https://guleixibian2009.github.io/2021/08/15/GithubPages-简单易上手的网站制作-Jekyll版/)  
         2.2 [3招提速你的GitHub，妈妈再也不用担心你的GitHub上不去了！](https://guleixibian.github.io/Code/Github/02/)  [新版链接](https://guleixibian2009.github.io/2021/08/14/3个小妙招加速你的GitHub/)  
