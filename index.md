@@ -18,7 +18,7 @@
     2. [GitHub](https://guleixibian.github.io/Code/Github/)  
         2.1 [从头开始建设你的个人博客网站--Jekyll版](https://guleixibian.github.io/Code/Github/01/)  [新版链接](https://guleixibian2009.github.io/2021/08/15/GithubPages-简单易上手的网站制作-Jekyll版/)  
         2.2 [3招提速你的GitHub，妈妈再也不用担心你的GitHub上不去了！](https://guleixibian.github.io/Code/Github/02/)  [新版链接](https://guleixibian2009.github.io/2021/08/14/3个小妙招加速你的GitHub/)  
-        2.3 [GitHub-Cli的安装与使用]
+        2.3 [GitHub-Cli的安装与使用](https://guleixibian.github.io/Code/Github/02/)  [新版链接](https://guleixibian2009.github.io/2021/08/14/3个小妙招加速你的GitHub/)  
     3. [Python](https://guleixibian.github.io/Code/Python/)  
         3.1 [新鲜出炉的Python小程序！](https://guleixibian.github.io/Code/Python/01/)  [新版链接]()  
     4. [Hexo(*暂未更新*)](https://guleixibian.github.io/Code/Hexo/)  
