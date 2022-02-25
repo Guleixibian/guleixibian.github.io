@@ -1,14 +1,15 @@
 # 真的非常简单：Markdown基本语法
+
 *PS:新版网站已经升级，你可以访问[我的新版网站](https://guleixibian2009.github.io/)，获取最新更新&资讯！*
 
 在很多博客、论坛，包括`GithubPages`(参见[这篇文章](https://guleixibian2009.github.io/2021/08/15/GithubPages-简单易上手的网站制作-Jekyll版/)) 里都有大量运用到一种叫做`Markdown`的文本语言。不管你是在创建自己的网站、写文章，一般平台都需要写Markdown。如果你想学习Markdown，你算是来对地方了！
 
 ## 0. Markdown 是什么？
 
->Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯(英语:John Gruber)。  
->它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。  
->由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，目前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息。如`GitHub`、`OpenStreetMap` 、`SourceForge`、简书等，甚至还能被使用来撰写电子书。    
->（摘自百度百科）  
+> Markdown是一种轻量级标记语言，创始人为约翰·格鲁伯(英语:John Gruber)。  
+> 它允许人们使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。  
+> 由于Markdown的轻量化、易读易写特性，并且对于图片，图表、数学式都有支持，目前许多网站都广泛使用Markdown来撰写帮助文档或是用于论坛上发表消息。如`GitHub`、`OpenStreetMap` 、`SourceForge`、简书等，甚至还能被使用来撰写电子书。    
+> （摘自百度百科）  
 
 ___
 
@@ -46,7 +47,6 @@ This is an H1
 
 This is an H2
 -------------
-
 ```
 
 不过它本身只支持2种标题，即大、小标题。
@@ -74,7 +74,7 @@ ___
 
 #### 2.2.2 颜色
 
-如果<font color=green> 你 </font>需要给文字调 <font color=red> 颜色 </font> ，可以用 ` <font> ` 标签，语法为
+如果<font color=green> 你 </font>需要给文字调 <font color=red> 颜色 </font> ，可以用 `font` 标签，语法为
 
 ```HTML
 <font color=red> Some text </font>
@@ -82,16 +82,16 @@ ___
 
 这个`<font>`标签接收一个参数`color`。你可以把它设为一些常见的颜色，比如
 
-|            颜色            |                    效果                    |
-| :------------------------: | :----------------------------------------: |
-|     `<font color=Red>`     |         <font color=Red>Red</font>         |
-|   `<font color=Yellow>`    |      <font color=Yellow>Yellow</font>      |
-|    `<font color=Blue>`     |        <font color=Blue>Blue</font>        |
-|    `<font color=Green>`    |       <font color=Green>Green</font>       |
-|    `<font color=Gold>`     |        <font color=Gold>Gold</font>        |
-|    `<font color=Grey>`     |        <font color=Grey>Grey</font>        |
-|   `<font color=Purple>`    |      <font color=Purple>Purple</font>      |
-|    `<font color=Azure>`    |       <font color=Azure>Azure</font>       |
+| 颜色                         | 效果                                         |
+|:--------------------------:|:------------------------------------------:|
+| `<font color=Red>`         | <font color=Red>Red</font>                 |
+| `<font color=Yellow>`      | <font color=Yellow>Yellow</font>           |
+| `<font color=Blue>`        | <font color=Blue>Blue</font>               |
+| `<font color=Green>`       | <font color=Green>Green</font>             |
+| `<font color=Gold>`        | <font color=Gold>Gold</font>               |
+| `<font color=Grey>`        | <font color=Grey>Grey</font>               |
+| `<font color=Purple>`      | <font color=Purple>Purple</font>           |
+| `<font color=Azure>`       | <font color=Azure>Azure</font>             |
 | `<font color=GreenYellow>` | <font color=GreenYellow>GreenYellow</font> |
 
 如果你还想要其他的颜色，你可以访问 <https://www.w3school.com.cn/tags/html_ref_colornames.asp> 来研究更多颜色~
@@ -143,8 +143,6 @@ ___
 
 在Markdown中，直接打 1. 就会出现一个有序列表。当然， i. a. 甚至不从头开始也可以：
 
-
-
 ### 4.2 无序列表
 
 无序列表的原理和有序列表一样，不过不以 1. 打头，而是：
@@ -189,7 +187,6 @@ ___
 
 ### 4.4 合并列表
 
-
 ---
 
 ## 注释
@@ -197,7 +194,6 @@ ___
 以下是注释内容：  
 
 [^1]: 你学废了吗？
-
 
 ___
 
